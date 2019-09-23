@@ -1,0 +1,13 @@
+h1{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-size: 80px;
+    background-color: darkred;
+
+}
+div{
+    display: block;
+    font-size:50px;
+    border:2px;
+    background-color:white;
+}
